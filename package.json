@@ -1,11 +1,18 @@
 {
   "name": "tinyjs-alive-loader",
   "version": "0.0.1",
+  "author": "zhaizheng.zz",
   "description": "parse ali alive file for tinyjs-plugin-easy-animation",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\"",
+    "prepublish": "echo 'prepublish'"
   },
+  "files": [
+    "index.js",
+    "example",
+    "lib"
+  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/Zz0819/tinyjs-alive-loader"
@@ -14,7 +21,9 @@
     "tinyjs",
     "easy-animation"
   ],
-  "author": "zhaizheng.zz",
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
+  },
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/Zz0819/tinyjs-alive-loader/issues"
