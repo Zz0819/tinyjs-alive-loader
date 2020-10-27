@@ -1,0 +1,565 @@
+{
+  "id": "3kjfiqkgdi6",
+  "name": "庄园三周年-首页羽毛",
+  "description": "",
+  "version": "1.0.1",
+  "projectId": 21478,
+  "source_key": "",
+  "stage": {
+    "__frameWidth": 3000,
+    "__frameHeight": 3000,
+    "__scale": 1,
+    "width": 750,
+    "height": 1334,
+    "backgroundColor": "",
+    "devicePixelRatio": 1,
+    "plugins": [
+      {
+        "type": "parallax",
+        "param": {
+          "x": 0,
+          "y": 0
+        }
+      }
+    ]
+  },
+  "cover": "//ossgw.alicdn.com/img/upload/4ed19692ccb6d3107eaf70e94542f8d1/projectCover-750-1334.png",
+  "movieClips": [
+    {
+      "id": "zlnr7pcd7e8",
+      "__visible": true,
+      "__lock": false,
+      "type": "image",
+      "name": "circle",
+      "data": {
+        "src": "//ossgw.alicdn.com/img/upload/7bfaa02e841006f8ccd28d6299ff5c08/guangquan-168-169.png"
+      },
+      "style": {
+        "width": 168,
+        "height": 168,
+        "left": 395,
+        "top": 850,
+        "opacity": 0,
+        "rotate": 0,
+        "scaleX": 0,
+        "scaleY": 0
+      },
+      "animation": {
+        "effectsGroup": [
+          {
+            "id": "zlnrfmd1h80",
+            "name": "透明度",
+            "type": "opacity",
+            "effects": [
+              {
+                "name": "透明度_1",
+                "val": 0,
+                "id": "zlnrfmdqk00",
+                "type": "opacity",
+                "delay": 3600,
+                "duration": 1000,
+                "easing": "easeOutQuad"
+              },
+              {
+                "name": "透明度_2",
+                "val": 0,
+                "id": "zlnrg3fohj4",
+                "type": "opacity",
+                "delay": 0,
+                "duration": 1000,
+                "easing": "easeOutQuad"
+              },
+              {
+                "name": "透明度_3",
+                "val": 0.7,
+                "id": "zpftmtlrmhs",
+                "type": "opacity",
+                "delay": 0,
+                "duration": 1000,
+                "easing": "easeOutQuad"
+              },
+              {
+                "name": "透明度_4",
+                "val": 0,
+                "id": "zpgb0q122ls",
+                "type": "opacity",
+                "delay": 0,
+                "duration": 1000,
+                "easing": "easeOutQuad"
+              },
+              {
+                "name": "透明度_5",
+                "val": 0.7,
+                "id": "zpgd96bqqio",
+                "type": "opacity",
+                "delay": 0,
+                "duration": 1000,
+                "easing": "easeOutQuad"
+              },
+              {
+                "name": "透明度_6",
+                "val": 0,
+                "id": "zpgd9hpzr9s",
+                "type": "opacity",
+                "delay": 0,
+                "duration": 1000,
+                "easing": "easeOutQuad"
+              }
+            ]
+          },
+          {
+            "id": "zlnrts1cdsw",
+            "name": "缩放",
+            "type": "scale",
+            "effects": [
+              {
+                "name": "缩放_1",
+                "val": {
+                  "scaleX": 1.5,
+                  "scaleY": 1.5
+                },
+                "id": "zlnrts1qzo0",
+                "type": "scale",
+                "delay": 3600,
+                "duration": 1000,
+                "easing": "linear"
+              },
+              {
+                "name": "缩放_2",
+                "val": {
+                  "scaleX": 1,
+                  "scaleY": 1
+                },
+                "id": "zpftynmopb4",
+                "type": "scale",
+                "delay": 0,
+                "duration": 1000,
+                "easing": "linear"
+              },
+              {
+                "name": "缩放_3",
+                "val": {
+                  "scaleX": 1.5,
+                  "scaleY": 1.5
+                },
+                "id": "zpfu2q8tn28",
+                "type": "scale",
+                "delay": 0,
+                "duration": 1000,
+                "easing": "linear"
+              },
+              {
+                "name": "缩放_4",
+                "val": {
+                  "scaleX": 1,
+                  "scaleY": 1
+                },
+                "id": "zpgb37ovokg",
+                "type": "scale",
+                "delay": 0,
+                "duration": 1000,
+                "easing": "linear"
+              },
+              {
+                "name": "缩放_5",
+                "val": {
+                  "scaleX": 1.5,
+                  "scaleY": 1.5
+                },
+                "id": "zpgdczb1psw",
+                "type": "scale",
+                "delay": 0,
+                "duration": 1000,
+                "easing": "linear"
+              },
+              {
+                "name": "缩放_6",
+                "val": {
+                  "scaleX": 1,
+                  "scaleY": 1
+                },
+                "id": "3kjmxqromk0",
+                "type": "scale",
+                "delay": 0,
+                "duration": 1000,
+                "easing": "linear"
+              }
+            ]
+          }
+        ],
+        "loop": "infinite",
+        "abLoops": [
+          {
+            "a": 0,
+            "b": 200,
+            "loop": "0"
+          }
+        ]
+      },
+      "events": [
+        {
+          "eventType": "click",
+          "action": {
+            "type": "link",
+            "param": {
+              "href": "",
+              "target": "blank"
+            }
+          }
+        }
+      ],
+      "plugins": [
+        {
+          "type": "parallax",
+          "param": {
+            "depth": 0
+          }
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "zlni8oe6r6o",
+      "__visible": true,
+      "__lock": false,
+      "type": "image",
+      "name": "plume",
+      "data": {
+        "src": "//ossgw.alicdn.com/img/upload/984a04c37531de408a473506a8459ccc/yumao300200-300-200.png"
+      },
+      "style": {
+        "width": 300,
+        "height": 200,
+        "left": 228,
+        "top": -334,
+        "opacity": 0,
+        "rotate": 0,
+        "scaleX": 2,
+        "scaleY": 2
+      },
+      "animation": {
+        "effectsGroup": [
+          {
+            "id": "zlnip4vgoxs",
+            "name": "移动",
+            "type": "move",
+            "effects": [
+              {
+                "name": "移动_1",
+                "val": {
+                  "x": 237,
+                  "y": 657
+                },
+                "id": "zlnip4y4dg0",
+                "type": "move",
+                "delay": 0,
+                "duration": 1000,
+                "easing": "easeOutQuad"
+              },
+              {
+                "name": "移动_2",
+                "val": {
+                  "x": 230,
+                  "y": 750
+                },
+                "id": "zlnixcfvj74",
+                "type": "move",
+                "delay": 0,
+                "duration": 1000,
+                "easing": "linear"
+              },
+              {
+                "name": "移动_3",
+                "val": {
+                  "x": 299,
+                  "y": 803
+                },
+                "id": "3kji797z4pk",
+                "type": "move",
+                "delay": 0,
+                "duration": 1600,
+                "easing": "easeOutBack"
+              },
+              {
+                "name": "移动_4",
+                "val": {
+                  "x": 240,
+                  "y": 830
+                },
+                "id": "zpf2g3xm99c",
+                "type": "move",
+                "delay": 0,
+                "duration": 1000,
+                "easing": "linear"
+              },
+              {
+                "name": "移动_5",
+                "val": {
+                  "x": 240,
+                  "y": 840
+                },
+                "id": "zpfjvoadduo",
+                "type": "move",
+                "delay": 0,
+                "duration": 1000,
+                "easing": "linear"
+              },
+              {
+                "name": "移动_6",
+                "val": {
+                  "x": 240,
+                  "y": 830
+                },
+                "id": "zpflkbl4ij4",
+                "type": "move",
+                "delay": 0,
+                "duration": 1000,
+                "easing": "linear"
+              },
+              {
+                "name": "移动_7",
+                "val": {
+                  "x": 240,
+                  "y": 840
+                },
+                "id": "zpfmbeke9f4",
+                "type": "move",
+                "delay": 0,
+                "duration": 1000,
+                "easing": "linear"
+              },
+              {
+                "name": "移动_8",
+                "val": {
+                  "x": 240,
+                  "y": 830
+                },
+                "id": "zpgcjd8tegw",
+                "type": "move",
+                "delay": 0,
+                "duration": 1000,
+                "easing": "linear"
+              },
+              {
+                "name": "移动_9",
+                "val": {
+                  "x": 240,
+                  "y": 840
+                },
+                "id": "zpgcjlex7xs",
+                "type": "move",
+                "delay": 0,
+                "duration": 1000,
+                "easing": "linear"
+              }
+            ]
+          },
+          {
+            "id": "zlnk18wl0v4",
+            "name": "旋转",
+            "type": "rotate",
+            "effects": [
+              {
+                "name": "旋转_1",
+                "val": 310,
+                "id": "3k5yeiw47vm",
+                "type": "rotate",
+                "delay": 0,
+                "duration": 1000,
+                "easing": "linear"
+              },
+              {
+                "name": "旋转_2",
+                "val": 380,
+                "id": "zlnk4fr00k0",
+                "type": "rotate",
+                "delay": 0,
+                "duration": 1000,
+                "easing": "linear"
+              },
+              {
+                "name": "旋转_3",
+                "val": 350,
+                "id": "3kjibwt0lvo",
+                "type": "rotate",
+                "delay": 0,
+                "duration": 1600,
+                "easing": "easeOutQuad"
+              },
+              {
+                "name": "旋转_4",
+                "val": 370,
+                "id": "zpf3cuky1sw",
+                "type": "rotate",
+                "delay": 0,
+                "duration": 1000,
+                "easing": "linear"
+              },
+              {
+                "name": "旋转_5",
+                "val": 360,
+                "id": "zpfjphcz5eo",
+                "type": "rotate",
+                "delay": 0,
+                "duration": 1000,
+                "easing": "linear"
+              },
+              {
+                "name": "旋转_6",
+                "val": 370,
+                "id": "zpflqsc7o34",
+                "type": "rotate",
+                "delay": 0,
+                "duration": 1000,
+                "easing": "linear"
+              },
+              {
+                "name": "旋转_7",
+                "val": 360,
+                "id": "zpfmgoc4fq8",
+                "type": "rotate",
+                "delay": 0,
+                "duration": 1000,
+                "easing": "linear"
+              },
+              {
+                "name": "旋转_8",
+                "val": 370,
+                "id": "zpgd0zhko9c",
+                "type": "rotate",
+                "delay": 0,
+                "duration": 1000,
+                "easing": "linear"
+              },
+              {
+                "name": "旋转_9",
+                "val": 360,
+                "id": "zpgd1caplxc",
+                "type": "rotate",
+                "delay": 0,
+                "duration": 1000,
+                "easing": "linear"
+              }
+            ]
+          },
+          {
+            "id": "zpexs33vd9s",
+            "name": "缩放",
+            "type": "scale",
+            "effects": [
+              {
+                "name": "缩放_1",
+                "val": {
+                  "scaleX": 1,
+                  "scaleY": 1
+                },
+                "id": "zpexs344b4w",
+                "type": "scale",
+                "delay": 0,
+                "duration": 1000,
+                "easing": "easeOutQuad"
+              }
+            ]
+          },
+          {
+            "id": "zpf0xgjop9c",
+            "name": "透明度",
+            "type": "opacity",
+            "effects": [
+              {
+                "name": "透明度_1",
+                "val": 1,
+                "id": "zpf0xgk73ww",
+                "type": "opacity",
+                "delay": 0,
+                "duration": 1000,
+                "easing": "easeOutQuad"
+              }
+            ]
+          }
+        ],
+        "loop": "infinite",
+        "abLoops": [
+          {
+            "a": 0,
+            "b": 200,
+            "loop": "0"
+          }
+        ]
+      },
+      "events": [
+        {
+          "eventType": "click",
+          "action": {
+            "type": "link",
+            "param": {
+              "href": "",
+              "target": "blank"
+            }
+          }
+        }
+      ],
+      "plugins": [
+        {
+          "type": "parallax",
+          "param": {
+            "depth": 0
+          }
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "zlni2lv0qhc",
+      "__visible": true,
+      "__lock": false,
+      "type": "image",
+      "name": "背景_1",
+      "data": {
+        "src": "//ossgw.alicdn.com/img/upload/ad201c6060acd12e77dc9dbb03a4a078/beijing-750-1334.png"
+      },
+      "style": {
+        "width": 750,
+        "height": 1334,
+        "left": 0,
+        "top": 0,
+        "opacity": 1,
+        "rotate": 0,
+        "scaleX": 1,
+        "scaleY": 1
+      },
+      "animation": {
+        "effectsGroup": [],
+        "loop": "infinite",
+        "abLoops": [
+          {
+            "a": 0,
+            "b": 200,
+            "loop": "0"
+          }
+        ]
+      },
+      "events": [
+        {
+          "eventType": "click",
+          "action": {
+            "type": "link",
+            "param": {
+              "href": "",
+              "target": "blank"
+            }
+          }
+        }
+      ],
+      "plugins": [
+        {
+          "type": "parallax",
+          "param": {
+            "depth": 0
+          }
+        }
+      ],
+      "children": []
+    }
+  ]
+}

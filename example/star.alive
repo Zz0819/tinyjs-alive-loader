@@ -1,0 +1,1104 @@
+{
+  "id": "117kl56t6mts",
+  "name": "星星与树",
+  "description": "",
+  "version": "1.0.1",
+  "projectId": 22977,
+  "source_key": "",
+  "stage": {
+    "__frameWidth": 3000,
+    "__frameHeight": 3000,
+    "__scale": 1,
+    "width": 750,
+    "height": 1624,
+    "backgroundColor": "",
+    "devicePixelRatio": 1,
+    "plugins": [
+      {
+        "type": "parallax",
+        "param": {
+          "x": 0,
+          "y": 0
+        }
+      }
+    ]
+  },
+  "cover": "//ossgw.alicdn.com/img/upload/cb289ec2ed23ffc4c68eb7d086815ced/projectCover-750-1624.png",
+  "movieClips": [
+    {
+      "id": "117lqtcrlmj4",
+      "__visible": true,
+      "__lock": false,
+      "type": "image",
+      "name": "云右边下_11",
+      "data": {
+        "src": "//ossgw.alicdn.com/img/upload/8096cee75a4cc1208f16cb58915625d8/yunyoubianxia-1242-1288.png"
+      },
+      "style": {
+        "width": 1242,
+        "height": 1288,
+        "left": 661,
+        "top": 757,
+        "opacity": 1,
+        "rotate": 0,
+        "scaleX": 0.58,
+        "scaleY": 0.58
+      },
+      "animation": {
+        "effectsGroup": [
+          {
+            "id": "117luo3ky5ao",
+            "name": "移动",
+            "type": "move",
+            "effects": [
+              {
+                "name": "移动_1",
+                "val": {
+                  "x": -224,
+                  "y": 655
+                },
+                "id": "117luo3m2p5s",
+                "type": "move",
+                "delay": 700,
+                "duration": 500,
+                "easing": "easeOutQuad"
+              }
+            ]
+          }
+        ],
+        "loop": "1",
+        "abLoops": [
+          {
+            "a": 0,
+            "b": 200,
+            "loop": "0"
+          }
+        ]
+      },
+      "events": [
+        {
+          "eventType": "click",
+          "action": {
+            "type": "link",
+            "param": {
+              "href": "",
+              "target": "blank"
+            }
+          }
+        }
+      ],
+      "plugins": [
+        {
+          "type": "parallax",
+          "param": {
+            "depth": 0
+          }
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "117lqt2q2l7k",
+      "__visible": true,
+      "__lock": false,
+      "type": "image",
+      "name": "云左中_10",
+      "data": {
+        "src": "//ossgw.alicdn.com/img/upload/59ab9d0c9b26da8026beb762244ec51e/yunzuozhong-1233-684.png"
+      },
+      "style": {
+        "width": 1233,
+        "height": 684,
+        "left": -1137,
+        "top": 671,
+        "opacity": 1,
+        "rotate": 0,
+        "scaleX": 0.81,
+        "scaleY": 0.81
+      },
+      "animation": {
+        "effectsGroup": [
+          {
+            "id": "117lwzvqnz68",
+            "name": "移动",
+            "type": "move",
+            "effects": [
+              {
+                "name": "移动_1",
+                "val": {
+                  "x": -145,
+                  "y": 658
+                },
+                "id": "117lwzvrp8e8",
+                "type": "move",
+                "delay": 600,
+                "duration": 700,
+                "easing": "easeOutQuad"
+              }
+            ]
+          }
+        ],
+        "loop": "1",
+        "abLoops": [
+          {
+            "a": 0,
+            "b": 200,
+            "loop": "0"
+          }
+        ]
+      },
+      "events": [
+        {
+          "eventType": "click",
+          "action": {
+            "type": "link",
+            "param": {
+              "href": "",
+              "target": "blank"
+            }
+          }
+        }
+      ],
+      "plugins": [
+        {
+          "type": "parallax",
+          "param": {
+            "depth": 0
+          }
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "117lqt1zl1i8",
+      "__visible": true,
+      "__lock": false,
+      "type": "image",
+      "name": "云右中_9",
+      "data": {
+        "src": "//ossgw.alicdn.com/img/upload/c17e679f85d2748b55b4b4215a192931/yunyouzhong-1616-761.png"
+      },
+      "style": {
+        "width": 1616,
+        "height": 761,
+        "left": 473,
+        "top": 327,
+        "opacity": 1,
+        "rotate": 0,
+        "scaleX": 0.63,
+        "scaleY": 0.63
+      },
+      "animation": {
+        "effectsGroup": [
+          {
+            "id": "117lxohrll8w",
+            "name": "移动",
+            "type": "move",
+            "effects": [
+              {
+                "name": "移动_1",
+                "val": {
+                  "x": -554,
+                  "y": 334
+                },
+                "id": "117lxohsx7r4",
+                "type": "move",
+                "delay": 700,
+                "duration": 700,
+                "easing": "easeOutQuad"
+              }
+            ]
+          }
+        ],
+        "loop": "1",
+        "abLoops": [
+          {
+            "a": 0,
+            "b": 200,
+            "loop": "0"
+          }
+        ]
+      },
+      "events": [
+        {
+          "eventType": "click",
+          "action": {
+            "type": "link",
+            "param": {
+              "href": "",
+              "target": "blank"
+            }
+          }
+        }
+      ],
+      "plugins": [
+        {
+          "type": "parallax",
+          "param": {
+            "depth": 0
+          }
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "117lqsuq6rj4",
+      "__visible": true,
+      "__lock": false,
+      "type": "image",
+      "name": "云坐下_7",
+      "data": {
+        "src": "//ossgw.alicdn.com/img/upload/5dae447638d494473d15b322a6634fb3/yunzuoxia-1128-713.png"
+      },
+      "style": {
+        "width": 1128,
+        "height": 713,
+        "left": -945,
+        "top": 1067,
+        "opacity": 1,
+        "rotate": 0,
+        "scaleX": 0.61,
+        "scaleY": 0.61
+      },
+      "animation": {
+        "effectsGroup": [
+          {
+            "id": "117lvesepjsg",
+            "name": "移动",
+            "type": "move",
+            "effects": [
+              {
+                "name": "移动_1",
+                "val": {
+                  "x": -176,
+                  "y": 1049
+                },
+                "id": "117lvesfj9io",
+                "type": "move",
+                "delay": 700,
+                "duration": 600,
+                "easing": "easeOutQuad"
+              }
+            ]
+          },
+          {
+            "id": "117lvzn4hs9s",
+            "name": "缩放",
+            "type": "scale",
+            "effects": [
+              {
+                "name": "缩放_1",
+                "val": {
+                  "scaleX": 0.9,
+                  "scaleY": 0.9
+                },
+                "id": "117lvzn4xnk0",
+                "type": "scale",
+                "delay": 0,
+                "duration": 1000,
+                "easing": "easeOutQuad"
+              }
+            ]
+          }
+        ],
+        "loop": "1",
+        "abLoops": [
+          {
+            "a": 0,
+            "b": 200,
+            "loop": "0"
+          }
+        ]
+      },
+      "events": [
+        {
+          "eventType": "click",
+          "action": {
+            "type": "link",
+            "param": {
+              "href": "",
+              "target": "blank"
+            }
+          }
+        }
+      ],
+      "plugins": [
+        {
+          "type": "parallax",
+          "param": {
+            "depth": 0
+          }
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "117lqtdroxsg",
+      "__visible": true,
+      "__lock": false,
+      "type": "image",
+      "name": "云左上_12",
+      "data": {
+        "src": "//ossgw.alicdn.com/img/upload/88bd3785875d0afea1554298ebef3294/yunzuoshang-1145-1586.png"
+      },
+      "style": {
+        "width": 1145,
+        "height": 1586,
+        "left": -1055,
+        "top": -443,
+        "opacity": 1,
+        "rotate": 0,
+        "scaleX": 0.6,
+        "scaleY": 0.6
+      },
+      "animation": {
+        "effectsGroup": [
+          {
+            "id": "117lzndfmm0w",
+            "name": "移动",
+            "type": "move",
+            "effects": [
+              {
+                "name": "移动_1",
+                "val": {
+                  "x": -233,
+                  "y": -376
+                },
+                "id": "117lzndgr08w",
+                "type": "move",
+                "delay": 700,
+                "duration": 500,
+                "easing": "easeOutQuad"
+              }
+            ]
+          }
+        ],
+        "loop": "1",
+        "abLoops": [
+          {
+            "a": 0,
+            "b": 200,
+            "loop": "0"
+          }
+        ]
+      },
+      "events": [
+        {
+          "eventType": "click",
+          "action": {
+            "type": "link",
+            "param": {
+              "href": "",
+              "target": "blank"
+            }
+          }
+        }
+      ],
+      "plugins": [
+        {
+          "type": "parallax",
+          "param": {
+            "depth": 0
+          }
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "117lqsv5uh80",
+      "__visible": true,
+      "__lock": false,
+      "type": "image",
+      "name": "云彩右上_8",
+      "data": {
+        "src": "//ossgw.alicdn.com/img/upload/9b5ed6fa332d24577e04d64e6f3e8288/yuncaiyoushang-827-781.png"
+      },
+      "style": {
+        "width": 827,
+        "height": 781,
+        "left": 752,
+        "top": -100,
+        "opacity": 1,
+        "rotate": 0,
+        "scaleX": 0.85,
+        "scaleY": 0.85
+      },
+      "animation": {
+        "effectsGroup": [
+          {
+            "id": "117lz9lb7f68",
+            "name": "移动",
+            "type": "move",
+            "effects": [
+              {
+                "name": "移动_1",
+                "val": {
+                  "x": -41,
+                  "y": -12
+                },
+                "id": "117lz9lceh80",
+                "type": "move",
+                "delay": 500,
+                "duration": 700,
+                "easing": "easeOutQuad"
+              }
+            ]
+          },
+          {
+            "id": "117m173ijszk",
+            "name": "缩放",
+            "type": "scale",
+            "effects": [
+              {
+                "name": "缩放_1",
+                "val": {
+                  "scaleX": 1.1,
+                  "scaleY": 1.1
+                },
+                "id": "117m173j7wi8",
+                "type": "scale",
+                "delay": 0,
+                "duration": 1000,
+                "easing": "easeOutQuad"
+              }
+            ]
+          }
+        ],
+        "loop": "1",
+        "abLoops": [
+          {
+            "a": 0,
+            "b": 200,
+            "loop": "0"
+          }
+        ]
+      },
+      "events": [
+        {
+          "eventType": "click",
+          "action": {
+            "type": "link",
+            "param": {
+              "href": "",
+              "target": "blank"
+            }
+          }
+        }
+      ],
+      "plugins": [
+        {
+          "type": "parallax",
+          "param": {
+            "depth": 0
+          }
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "11cp3snk7vn4",
+      "__visible": true,
+      "__lock": false,
+      "type": "image",
+      "name": "光晕备份_13",
+      "data": {
+        "src": "//ossgw.alicdn.com/img/upload/40ea3517d282af9bc490756e453cbaf0/guangyunbeifen-256-256.png"
+      },
+      "style": {
+        "width": 256,
+        "height": 256,
+        "left": 69,
+        "top": 124,
+        "opacity": 1,
+        "rotate": 0,
+        "scaleX": 0.7,
+        "scaleY": 0.7
+      },
+      "animation": {
+        "effectsGroup": [
+          {
+            "id": "11cp3y5knmhc",
+            "name": "缩放",
+            "type": "scale",
+            "effects": [
+              {
+                "name": "缩放_1",
+                "val": {
+                  "scaleX": 1.5,
+                  "scaleY": 1.5
+                },
+                "id": "11cp3y5m1s8g",
+                "type": "scale",
+                "delay": 0,
+                "duration": 700,
+                "easing": "easeOutQuad"
+              },
+              {
+                "name": "缩放_2",
+                "val": {
+                  "scaleX": 1.2,
+                  "scaleY": 1.2
+                },
+                "id": "11cpf6q1g5ts",
+                "type": "scale",
+                "delay": 0,
+                "duration": 300,
+                "easing": "easeOutQuad"
+              }
+            ]
+          },
+          {
+            "id": "11cp566f25tc",
+            "name": "路径",
+            "type": "pathMove",
+            "effects": [
+              {
+                "name": "路径_1",
+                "val": {
+                  "path": "M201.80556,243c3.10961,10.41358 18.99383,15.43951 27.19444,22c24.85272,19.88218 47.34909,42.54485 69,66c22.48149,24.35495 48.7685,44.7685 72,68c24.70227,24.70227 45.45906,53.36071 68,80c25.93645,30.65216 52.22806,60.84989 72,96c33.76259,60.02238 60.82807,123.44123 81,189c8.10642,26.34585 13.44037,53.54129 21,80c0.49676,1.73865 6.41274,27 8,27"
+                },
+                "id": "11cp566ertdc",
+                "type": "pathMove",
+                "delay": 100,
+                "duration": 1000,
+                "easing": "easeInQuad"
+              }
+            ]
+          }
+        ],
+        "loop": "infinite",
+        "abLoops": [
+          {
+            "a": 0,
+            "b": 200,
+            "loop": "0"
+          }
+        ]
+      },
+      "events": [
+        {
+          "eventType": "click",
+          "action": {
+            "type": "link",
+            "param": {
+              "href": "",
+              "target": "blank"
+            }
+          }
+        }
+      ],
+      "plugins": [
+        {
+          "type": "parallax",
+          "param": {
+            "depth": 0
+          }
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "117k5199m8i8",
+      "__visible": true,
+      "__lock": false,
+      "type": "image",
+      "name": "星星4_6",
+      "data": {
+        "src": "//ossgw.alicdn.com/img/upload/c29b848e8509fcf2ec608f06f7488190/xingxing4-238-238.png"
+      },
+      "style": {
+        "width": 259,
+        "height": 238,
+        "left": 69,
+        "top": 124,
+        "opacity": 1,
+        "rotate": 0,
+        "scaleX": 1,
+        "scaleY": 1
+      },
+      "animation": {
+        "effectsGroup": [
+          {
+            "id": "117k5b1u0jpc",
+            "name": "透明度",
+            "type": "opacity",
+            "effects": [
+              {
+                "name": "透明度_1",
+                "val": 1,
+                "id": "117k5b1uhz1c",
+                "type": "opacity",
+                "delay": 0,
+                "duration": 700,
+                "easing": "linear"
+              }
+            ]
+          },
+          {
+            "id": "117l9buqcn9c",
+            "name": "路径",
+            "type": "pathMove",
+            "effects": [
+              {
+                "name": "路径_1",
+                "val": {
+                  "path": "M201.80556,243c3.10961,10.41358 18.99383,15.43951 27.19444,22c24.85272,19.88218 47.34909,42.54485 69,66c22.48149,24.35495 48.7685,44.7685 72,68c24.70227,24.70227 45.45906,53.36071 68,80c25.93645,30.65216 52.22806,60.84989 72,96c33.76259,60.02238 60.82807,123.44123 81,189c8.10642,26.34585 13.44037,53.54129 21,80c0.49676,1.73865 6.41274,27 8,27"
+                },
+                "id": "117l9burpyu8",
+                "type": "pathMove",
+                "delay": 100,
+                "duration": 1000,
+                "easing": "easeInQuad"
+              }
+            ]
+          }
+        ],
+        "loop": "1",
+        "abLoops": [
+          {
+            "a": 0,
+            "b": 200,
+            "loop": "0"
+          }
+        ]
+      },
+      "events": [
+        {
+          "eventType": "click",
+          "action": {
+            "type": "link",
+            "param": {
+              "href": "",
+              "target": "blank"
+            }
+          }
+        }
+      ],
+      "plugins": [
+        {
+          "type": "parallax",
+          "param": {
+            "depth": 0
+          }
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "117lioclzy5c",
+      "__visible": true,
+      "__lock": false,
+      "type": "image",
+      "name": "地球缩小_6",
+      "data": {
+        "src": "//ossgw.alicdn.com/img/upload/9bcdf235f6a8fa5cbe043cdb783d2775/diqiusuoxiao-1000-1000.png"
+      },
+      "style": {
+        "width": 1000,
+        "height": 1000,
+        "left": -112,
+        "top": 1648,
+        "opacity": 1,
+        "rotate": 0,
+        "scaleX": 1,
+        "scaleY": 1
+      },
+      "animation": {
+        "effectsGroup": [
+          {
+            "id": "117ljamvknq8",
+            "name": "移动",
+            "type": "move",
+            "effects": [
+              {
+                "name": "移动_1",
+                "val": {
+                  "x": -95,
+                  "y": 1093
+                },
+                "id": "117ljamvhw7k",
+                "type": "move",
+                "delay": 600,
+                "duration": 1000,
+                "easing": "easeOutQuad"
+              }
+            ]
+          },
+          {
+            "id": "117ljrrks02o",
+            "name": "缩放",
+            "type": "scale",
+            "effects": [
+              {
+                "name": "缩放_1",
+                "val": {
+                  "scaleX": 2.5,
+                  "scaleY": 2.5
+                },
+                "id": "3pyjz6cwg4k",
+                "type": "scale",
+                "delay": 400,
+                "duration": 1000,
+                "easing": "easeOutQuad"
+              }
+            ]
+          },
+          {
+            "id": "3pyk1mupsxm",
+            "name": "旋转",
+            "type": "rotate",
+            "effects": [
+              {
+                "name": "旋转_1",
+                "val": 150,
+                "id": "117lkgciujy8",
+                "type": "rotate",
+                "delay": 0,
+                "duration": 1500,
+                "easing": "easeOutQuad"
+              }
+            ]
+          }
+        ],
+        "loop": "1",
+        "abLoops": [
+          {
+            "a": 0,
+            "b": 200,
+            "loop": "0"
+          }
+        ]
+      },
+      "events": [
+        {
+          "eventType": "click",
+          "action": {
+            "type": "link",
+            "param": {
+              "href": "",
+              "target": "blank"
+            }
+          }
+        }
+      ],
+      "plugins": [
+        {
+          "type": "parallax",
+          "param": {
+            "depth": 0
+          }
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "117k3lgna3io",
+      "__visible": true,
+      "__lock": false,
+      "type": "image",
+      "name": "星星3_5",
+      "data": {
+        "src": "//ossgw.alicdn.com/img/upload/b68624bc27f1fb8c3ff18f4c35892336/xingxing3-182-248.png"
+      },
+      "style": {
+        "width": 182,
+        "height": 248,
+        "left": 490,
+        "top": 592,
+        "opacity": 1,
+        "rotate": 0,
+        "scaleX": 1,
+        "scaleY": 1
+      },
+      "animation": {
+        "effectsGroup": [
+          {
+            "id": "3pyerja3ajs",
+            "name": "透明度",
+            "type": "opacity",
+            "effects": [
+              {
+                "name": "透明度_1",
+                "val": 0.35,
+                "id": "117k3ncthaww",
+                "type": "opacity",
+                "delay": 0,
+                "duration": 800,
+                "easing": "easeOutQuad"
+              },
+              {
+                "name": "透明度_2",
+                "val": 0.67,
+                "id": "117k3ucl70gw",
+                "type": "opacity",
+                "delay": 0,
+                "duration": 800,
+                "easing": "easeOutQuad"
+              }
+            ]
+          }
+        ],
+        "loop": "infinite",
+        "abLoops": [
+          {
+            "a": 0,
+            "b": 1600,
+            "loop": "Infinity"
+          }
+        ]
+      },
+      "events": [
+        {
+          "eventType": "click",
+          "action": {
+            "type": "link",
+            "param": {
+              "href": "",
+              "target": "blank"
+            }
+          }
+        }
+      ],
+      "plugins": [
+        {
+          "type": "parallax",
+          "param": {
+            "depth": 0
+          }
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "117k2mgo6s28",
+      "__visible": true,
+      "__lock": false,
+      "type": "image",
+      "name": "星星2_4",
+      "data": {
+        "src": "//ossgw.alicdn.com/img/upload/009fc53cfaad2eafb9908d88af831e5f/xingxing2-152-248.png"
+      },
+      "style": {
+        "width": 152,
+        "height": 248,
+        "left": 63,
+        "top": 190,
+        "opacity": 1,
+        "rotate": 0,
+        "scaleX": 1,
+        "scaleY": 1
+      },
+      "animation": {
+        "effectsGroup": [
+          {
+            "id": "3pyeofgi7m8",
+            "name": "透明度",
+            "type": "opacity",
+            "effects": [
+              {
+                "name": "透明度_1",
+                "val": 0.14,
+                "id": "117k2salk8ow",
+                "type": "opacity",
+                "delay": 0,
+                "duration": 600,
+                "easing": "easeOutQuad"
+              },
+              {
+                "name": "透明度_2",
+                "val": 0.95,
+                "id": "117k35qgbz1c",
+                "type": "opacity",
+                "delay": 0,
+                "duration": 600,
+                "easing": "easeOutQuad"
+              }
+            ]
+          }
+        ],
+        "loop": "infinite",
+        "abLoops": [
+          {
+            "a": 0,
+            "b": 1200,
+            "loop": "Infinity"
+          }
+        ]
+      },
+      "events": [
+        {
+          "eventType": "click",
+          "action": {
+            "type": "link",
+            "param": {
+              "href": "",
+              "target": "blank"
+            }
+          }
+        }
+      ],
+      "plugins": [
+        {
+          "type": "parallax",
+          "param": {
+            "depth": 0
+          }
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "117jzi0knjsw",
+      "__visible": true,
+      "__lock": false,
+      "type": "image",
+      "name": "星星_3",
+      "data": {
+        "src": "//ossgw.alicdn.com/img/upload/d50884e8cd6928b55e278b33bb3163a8/xingxing-750-1226.png"
+      },
+      "style": {
+        "width": 750,
+        "height": 1226,
+        "left": 3,
+        "top": 4,
+        "opacity": 0.32,
+        "rotate": 0,
+        "scaleX": 1,
+        "scaleY": 1
+      },
+      "animation": {
+        "effectsGroup": [
+          {
+            "id": "117k0ce0m7hs",
+            "name": "透明度",
+            "type": "opacity",
+            "effects": [
+              {
+                "name": "透明度_1",
+                "val": 0,
+                "id": "117k0ce1gmmo",
+                "type": "opacity",
+                "delay": 0,
+                "duration": 300,
+                "easing": "easeOutQuad"
+              },
+              {
+                "name": "透明度_2",
+                "val": 0.45,
+                "id": "117k1x7wfz8w",
+                "type": "opacity",
+                "delay": 0,
+                "duration": 500,
+                "easing": "easeOutQuad"
+              }
+            ]
+          }
+        ],
+        "loop": "infinite",
+        "abLoops": [
+          {
+            "a": 0,
+            "b": 800,
+            "loop": "Infinity"
+          }
+        ]
+      },
+      "events": [
+        {
+          "eventType": "click",
+          "action": {
+            "type": "link",
+            "param": {
+              "href": "",
+              "target": "blank"
+            }
+          }
+        }
+      ],
+      "plugins": [
+        {
+          "type": "parallax",
+          "param": {
+            "depth": 0
+          }
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "117jpyp6qbb4",
+      "__visible": true,
+      "__lock": false,
+      "type": "image",
+      "name": "星空-(1)_1",
+      "data": {
+        "src": "//ossgw.alicdn.com/img/upload/ed99ac03552c8602d49fe754cd8cc003/xingkong-1-750-2401.jpg"
+      },
+      "style": {
+        "width": 750,
+        "height": 2401,
+        "left": 0,
+        "top": -11,
+        "opacity": 1,
+        "rotate": 0,
+        "scaleX": 1.01,
+        "scaleY": 1
+      },
+      "animation": {
+        "effectsGroup": [
+          {
+            "id": "117kozfaol28",
+            "name": "移动",
+            "type": "move",
+            "effects": [
+              {
+                "name": "移动_1",
+                "val": {
+                  "x": 0,
+                  "y": -771
+                },
+                "id": "117kozfbbdi8",
+                "type": "move",
+                "delay": 0,
+                "duration": 1000,
+                "easing": "easeOutQuad"
+              }
+            ]
+          }
+        ],
+        "loop": "1",
+        "abLoops": [
+          {
+            "a": 0,
+            "b": 200,
+            "loop": "0"
+          }
+        ]
+      },
+      "events": [
+        {
+          "eventType": "click",
+          "action": {
+            "type": "link",
+            "param": {
+              "href": "",
+              "target": "blank"
+            }
+          }
+        }
+      ],
+      "plugins": [
+        {
+          "type": "parallax",
+          "param": {
+            "depth": 0
+          }
+        }
+      ],
+      "children": []
+    }
+  ],
+  "val": {
+    "path": "M197 252 L297 M201.80556,243c3.10961,10.41358 18.99383,15.43951 27.19444,22c24.85272,19.88218 47.34909,42.54485 69,66c22.48149,24.35495 48.7685,44.7685 72,68c24.70227,24.70227 45.45906,53.36071 68,80c25.93645,30.65216 52.22806,60.84989 72,96c33.76259,60.02238 60.82807,123.44123 81,189c8.10642,26.34585 13.44037,53.54129 21,80c0.49676,1.73865 6.41274,27 8,27"
+  }
+}
