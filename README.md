@@ -9,6 +9,9 @@ module.exports = {
     use: [
       {
         loader: 'tinyjs-alive-loader',
+        options: {
+          format: 'alive' // 默认 alive，目前支持 alive/lottie
+        }
       }
     ]
   }

@@ -28,5 +28,8 @@
   "bugs": {
     "url": "https://github.com/Zz0819/tinyjs-alive-loader/issues"
   },
-  "homepage": "https://github.com/Zz0819/tinyjs-alive-loader#readme"
+  "homepage": "https://github.com/Zz0819/tinyjs-alive-loader#readme",
+  "dependencies": {
+    "loader-utils": "^2.0.0"
+  }
 }
