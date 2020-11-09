@@ -1,3 +1,3 @@
-import testConfig from './test.alive';
+import testConfig from './open_lottie.alive';
 
 console.log(testConfig);

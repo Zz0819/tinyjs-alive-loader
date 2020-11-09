@@ -15,6 +15,9 @@ const config = {
         use: [
           {
             loader: path.resolve('../index.js'),
+            options: {
+              format: 'lottie'
+            }
           }
         ]
       }
